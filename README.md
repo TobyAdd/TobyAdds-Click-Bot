@@ -11,3 +11,5 @@ How to run project?
 
 3. Then download sourse code of TBC and run TCB.sln.
 4. Done!
+
+Special thanks to Eimaen for helping in making TBC!
